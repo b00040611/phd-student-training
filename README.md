@@ -63,6 +63,7 @@ Here is a blog from Andrej Karpathy who graduated from CS @ standford and now wo
 
 ### Academic writing
 
+* [Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html) - very useful tips for academic writing
 * [Linggle](https://linggle.com/) - Language reference search
 
 ### Latex
