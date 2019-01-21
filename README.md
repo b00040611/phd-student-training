@@ -12,27 +12,18 @@ Some material for PhD student training (in Information Technology)
   - [Python Packages for Machine Learning](#python-packages-for-machine-learning)
   - [Practice Your Skills](#pratice-your-skills)
 - [Find research directions and references](#find-research-directions-and-references)
-  - [Find high impact journal and conference in your area](#dp-books)
-  - [Finding research papers](#finding-research-papers)
-  - [Frameworks](#frameworks)
-  - [Network Architectures and Examples](#network-architectures-and-examples)
-    - [Convolutional Networks](#convolutional-networks)
-    - [Recurrent Neural Networks](#recurrent-neural-networks)
-    - [Recursive Neural Networks](#recursive-neural-networks)
-    - [Generative Adversarial Network](#generative-adversarial-network)
+  - [Find high impact journal and conference in your area](#find-high-impact-journal-and-conference-in-your-area)
+  - [Find research papers](#find-research-papers)
   - [Datasets](#datasets)
-    - [Image](#image)
-    - [Handwriting](#handwriting)
-    - [Video](#video)
-  - [Model Zoo](#model-zoo)
-  - [Research Groups And People](#research-groups-and-people)
-  - [Other Resources of Deep Learning](#other-resources-of-deep-learning)
-- [Project management and coding](#using-commercial-cloud-computing-platforms)
-  - [ML and DL APIs](#ml-and-dl-apis)
-  - [Deeplearning using cloud](#deeplearning-using-cloud)
-- [Writing papers and presenting your work](#using-commercial-cloud-computing-platforms)
-  - [ML and DL APIs](#ml-and-dl-apis)
-  - [Deeplearning using cloud](#deeplearning-using-cloud)
+- [Project management and coding](#project-management-and-coding)
+  - [Project management](#project-management)
+  - [Coding](#coding)
+- [Write papers and present your work](#write-papers-and-present-your-work)
+  - [Academic writing](#academic-writing)
+  - [Latex](#latex)
+  - [Reference management](#Reference management)
+
+
 ## Introduction
 
 ## Making plans and stick to schedule
@@ -47,3 +38,36 @@ Some material for PhD student training (in Information Technology)
 ### Finding research papers
 * [Google scholar](https://scholar.google.com/schhp?hl=en) -Finding papers by key words. Following peer researchers.
 * [Semantic Scholar](https://www.semanticscholar.org/) - More accurate search results. Currently only in Computer science and Medicine.
+
+### Datasets
+* [Google dataset search](https://toolbox.google.com/datasetsearch)
+
+## Project management and coding
+
+### Project management
+
+* [Github](https://github.com/) -project management, opensource software development platform
+* [Bitbucket](https://bitbucket.org/)
+
+### Coding
+
+* [Python](https://github.com/b00040611/apply-machine-learning-deep-learning-usingPython)
+* [MATLAB](https://www.mathworks.com)
+
+## Write papers and present your work
+
+### Academic writing
+
+* [Linggle](https://linggle.com/) - Language reference search
+
+### Latex
+
+* [Overleaf](https://www.overleaf.com/) -The easy to use, online, collaborative LaTeX editor
+
+### Reference management
+
+* [Mendeley](https://www.mendeley.com/?interaction_required=true) - online reference manager
+
+
+
+
