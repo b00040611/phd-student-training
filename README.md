@@ -1,2 +1,36 @@
-# Phd-student-training
-PhD student training
+# PhD-student-training
+Some material for PhD student training (in Information Technology)
+
+## Table of Contents
+- [Introduction](#python)
+  - [Python IDE](#python-ide)
+  - [Courses](#courses)
+  - [Python Books](#python-books)
+  - [Other Resources](#other-resources)
+- [Making plans and stick to schedule](#machine-learning-using-python)
+  - [Machine Learning Courses](#machine-learning-courses)
+  - [Python Packages for Machine Learning](#python-packages-for-machine-learning)
+  - [Practice Your Skills](#pratice-your-skills)
+- [Find research directions and references](#deep-learning)
+  - [DP Books](#dp-books)
+  - [Deep Learning Courses](#deep-learning-courses)
+  - [Frameworks](#frameworks)
+  - [Network Architectures and Examples](#network-architectures-and-examples)
+    - [Convolutional Networks](#convolutional-networks)
+    - [Recurrent Neural Networks](#recurrent-neural-networks)
+    - [Recursive Neural Networks](#recursive-neural-networks)
+    - [Generative Adversarial Network](#generative-adversarial-network)
+  - [Datasets](#datasets)
+    - [Image](#image)
+    - [Handwriting](#handwriting)
+    - [Video](#video)
+  - [Model Zoo](#model-zoo)
+  - [Research Groups And People](#research-groups-and-people)
+  - [Other Resources of Deep Learning](#other-resources-of-deep-learning)
+- [Project management and coding](#using-commercial-cloud-computing-platforms)
+  - [ML and DL APIs](#ml-and-dl-apis)
+  - [Deeplearning using cloud](#deeplearning-using-cloud)
+- [Writing papers and presenting your work](#using-commercial-cloud-computing-platforms)
+  - [ML and DL APIs](#ml-and-dl-apis)
+  - [Deeplearning using cloud](#deeplearning-using-cloud)
+## Python
