@@ -1,2 +1,2 @@
-# phd-student-training
+# Phd-student-training
 PhD student training
