@@ -4,9 +4,6 @@ Some material for PhD student training (in Information Technology)
 ## Table of Contents
 - [Introduction](#introduction)
 - [Making plans and stick to schedule](#making-plans-and-stick-to-schedule)
-  - [Machine Learning Courses](#machine-learning-courses)
-  - [Python Packages for Machine Learning](#python-packages-for-machine-learning)
-  - [Practice Your Skills](#pratice-your-skills)
 - [Find research directions and references](#find-research-directions-and-references)
   - [Find high impact journal and conference in your area](#find-high-impact-journal-and-conference-in-your-area)
   - [Find research papers](#find-research-papers)
@@ -32,6 +29,8 @@ Here is a blog from Andrej Karpathy who graduated from CS @ standford and now wo
 [A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/)
 
 ## Making plans and stick to schedule
+
+Always have a plan and stick to the schedule.
 
 ## Find research directions and references
 
