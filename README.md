@@ -11,9 +11,9 @@ Some material for PhD student training (in Information Technology)
   - [Machine Learning Courses](#machine-learning-courses)
   - [Python Packages for Machine Learning](#python-packages-for-machine-learning)
   - [Practice Your Skills](#pratice-your-skills)
-- [Find research directions and references](#deep-learning)
-  - [DP Books](#dp-books)
-  - [Deep Learning Courses](#deep-learning-courses)
+- [Find research directions and references](#find-research-directions-and-references)
+  - [Find high impact journal and conference in your area](#dp-books)
+  - [Finding research papers](#finding-research-papers)
   - [Frameworks](#frameworks)
   - [Network Architectures and Examples](#network-architectures-and-examples)
     - [Convolutional Networks](#convolutional-networks)
@@ -34,3 +34,14 @@ Some material for PhD student training (in Information Technology)
   - [ML and DL APIs](#ml-and-dl-apis)
   - [Deeplearning using cloud](#deeplearning-using-cloud)
 ## Python
+
+## Find research directions and references
+
+### Find high impact journal and conference in your area
+* [Scimago Journal & Country Rank]() -Find the journal impact
+* [Core Conference ranking in Australia](http://portal.core.edu.au/conf-ranks/)
+* [Google scholar metrics](https://scholar.google.com/citations?view_op=metrics_intro&hl=en) - Top publications in different areas.
+
+### Finding research papers
+* [Google scholar](https://scholar.google.com/schhp?hl=en) -Finding papers by key words. Following peer researchers.
+* [Semantic Scholar](https://www.semanticscholar.org/) - More accurate search results. Currently only in Computer science and Medicine.
