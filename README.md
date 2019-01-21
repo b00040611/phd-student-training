@@ -3,10 +3,6 @@ Some material for PhD student training (in Information Technology)
 
 ## Table of Contents
 - [Introduction](#introduction)
-  - [Python IDE](#python-ide)
-  - [Courses](#courses)
-  - [Python Books](#python-books)
-  - [Other Resources](#other-resources)
 - [Making plans and stick to schedule](#making-plans-and-stick-to-schedule)
   - [Machine Learning Courses](#machine-learning-courses)
   - [Python Packages for Machine Learning](#python-packages-for-machine-learning)
@@ -32,6 +28,7 @@ Pursuing a PhD degree is an important and quite long period. You need to underst
 * How do I achieve my targets and handle all the skills?
 
 Here is a blog from Andrej Karpathy who graduated from CS @ standford and now work as director of AI at Tesla.
+
 [A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/)
 
 ## Making plans and stick to schedule
