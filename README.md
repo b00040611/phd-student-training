@@ -21,7 +21,7 @@ Some material for PhD student training (in Information Technology)
 - [Write papers and present your work](#write-papers-and-present-your-work)
   - [Academic writing](#academic-writing)
   - [Latex](#latex)
-  - [Reference management](#Reference management)
+  - [Reference management](#reference-management)
 
 
 ## Introduction
