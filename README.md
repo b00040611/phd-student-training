@@ -25,6 +25,14 @@ Some material for PhD student training (in Information Technology)
 
 
 ## Introduction
+Pursuing a PhD degree is an important and quite long period. You need to understand it from the very beginning, including:
+
+* What is my target and motivation?
+* What is the skill required in the process?
+* How do I achieve my targets and handle all the skills?
+
+Here is a blog from Andrej Karpathy who graduated from CS @ standford and now work as director of AI at Tesla.
+[A Survival Guide to a PhD](http://karpathy.github.io/2016/09/07/phd/)
 
 ## Making plans and stick to schedule
 
