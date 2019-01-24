@@ -64,6 +64,7 @@ Always have a plan and stick to the schedule.
 
 * [Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html) - very useful tips for academic writing
 * [Linggle](https://linggle.com/) - Language reference search
+* [Grammarly](https://www.grammarly.com/) - Writing assistant
 
 ### Latex
 
