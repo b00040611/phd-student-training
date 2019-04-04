@@ -47,7 +47,21 @@ Always have a plan and stick to the schedule.
   * [IEEE Transactions on Information Forensics and Security (TIFS)](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security)
   * [IEEE Transactions on Dependable and Secure Computing (TDSC)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)
   * [ACM Transactions on Information and System Security (TISSEC)](https://tops.acm.org/)
-
+  
+* Top Conferences for Machine Learning & Arti. Intelligence
+  * [IEEE Conference on Computer Vision and Pattern Recognition (CVPR)](http://cvpr2019.thecvf.com/)
+  * [Neural Information Processing Systems (NIPS)](https://nips.cc/)
+  * [European Conference on Computer Vision (ECCV)](https://eccv2018.org/)
+  * [International Conference on Machine Learning (ICML)](https://icml.cc/)
+  * [IEEE International Conference on Computer Vision (ICCV)](http://iccv2019.thecvf.com/)
+  * [ACM SIGKDD International Conference on Knowledge discovery and data mining (SIGKDD)](http://www.kdd.org/kdd2018/)
+  * [International Conference on Data Engineering Workshops (ICDE)](http://conferences.cis.umac.mo/icde2019/)
+  * [AAAI Conference on Artificial Intelligence](https://aaai.org/Conferences/AAAI-19/)
+* Top journals for Machine Learning & Arti. Intelligence
+  * IEEE Transactions on Neural Networks and Learning Systems
+  * IEEE Transactions on Intelligent Transportation Systems
+  * IEEE Transactions on Knowledge and Data Engineering
+  
 ### Finding research papers
 * [Google scholar](https://scholar.google.com/schhp?hl=en) -Finding papers by key words. Following peer researchers.
 * [Semantic Scholar](https://www.semanticscholar.org/) - More accurate search results. Currently only in Computer science and Medicine.
