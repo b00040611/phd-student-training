@@ -39,7 +39,7 @@ Always have a plan and stick to the schedule.
 * [Core Conference ranking in Australia](http://portal.core.edu.au/conf-ranks/)
 * [Google scholar metrics](https://scholar.ghttps://www.scimagojr.com/index.phpoogle.com/citations?view_op=metrics_intro&hl=en) - Top publications in different areas.
 * Top conferences in security and privacy:
--- [IEEE Symposium on Security and Privacy](http://www.ieee-security.org/TC/SP-Index.html)
+  * [IEEE Symposium on Security and Privacy](http://www.ieee-security.org/TC/SP-Index.html)
 
 ### Finding research papers
 * [Google scholar](https://scholar.google.com/schhp?hl=en) -Finding papers by key words. Following peer researchers.
