@@ -40,7 +40,9 @@ Always have a plan and stick to the schedule.
 * [Google scholar metrics](https://scholar.ghttps://www.scimagojr.com/index.phpoogle.com/citations?view_op=metrics_intro&hl=en) - Top publications in different areas.
 * Top conferences in security and privacy:
   * [IEEE Symposium on Security and Privacy](http://www.ieee-security.org/TC/SP-Index.html)
-
+  * [ACM Conference on Computer and Communications Security (CCS)](http://www.sigsac.org/)
+  * [Usenix Security Symposium](https://www.usenix.org/conferences)
+  * [ISOC Network and Distributed System Security Symposium](https://www.internetsociety.org/blog/2016/02/ndss-2016-grants-distinguished-papers-awards/)
 ### Finding research papers
 * [Google scholar](https://scholar.google.com/schhp?hl=en) -Finding papers by key words. Following peer researchers.
 * [Semantic Scholar](https://www.semanticscholar.org/) - More accurate search results. Currently only in Computer science and Medicine.
