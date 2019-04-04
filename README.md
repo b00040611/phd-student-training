@@ -39,10 +39,15 @@ Always have a plan and stick to the schedule.
 * [Core Conference ranking in Australia](http://portal.core.edu.au/conf-ranks/)
 * [Google scholar metrics](https://scholar.ghttps://www.scimagojr.com/index.phpoogle.com/citations?view_op=metrics_intro&hl=en) - Top publications in different areas.
 * Top conferences in security and privacy:
-  * [IEEE Symposium on Security and Privacy](http://www.ieee-security.org/TC/SP-Index.html)
+  * [IEEE Symposium on Security and Privacy (S&P)](http://www.ieee-security.org/TC/SP-Index.html)
   * [ACM Conference on Computer and Communications Security (CCS)](http://www.sigsac.org/)
-  * [Usenix Security Symposium](https://www.usenix.org/conferences)
-  * [ISOC Network and Distributed System Security Symposium](https://www.internetsociety.org/blog/2016/02/ndss-2016-grants-distinguished-papers-awards/)
+  * [Usenix Security Symposium (Usenix)](https://www.usenix.org/conferences)
+  * [ISOC Network and Distributed System Security Symposium (NDSS)](https://www.internetsociety.org/blog/2016/02/ndss-2016-grants-distinguished-papers-awards/)
+* Top journals in security and privacy:
+  * [IEEE Transactions on Information Forensics and Security (TIFS)](https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security)
+  * [IEEE Transactions on Dependable and Secure Computing (TDSC)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=8858)
+  * [ACM Transactions on Information and System Security (TISSEC)](https://tops.acm.org/)
+
 ### Finding research papers
 * [Google scholar](https://scholar.google.com/schhp?hl=en) -Finding papers by key words. Following peer researchers.
 * [Semantic Scholar](https://www.semanticscholar.org/) - More accurate search results. Currently only in Computer science and Medicine.
