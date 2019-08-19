@@ -1,5 +1,5 @@
 # PhD-student-training
-Some material for PhD student training (in Information Technology)
+Some material for PhD student training (Cybersecurity and privacy)
 
 ## Table of Contents
 - [Introduction](#introduction)
