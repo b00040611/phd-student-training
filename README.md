@@ -86,12 +86,16 @@ Always have a plan and stick to the schedule.
 ### Academic writing
 
 * [Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html) - very useful tips for academic writing
+* [Collected Advice on Research and Writing](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mleone/web/how-to.html) -CMU
+* [Writing Technical Articles](http://www.cs.columbia.edu/~hgs/etc/writing-style.html) - Columbia
 * [Linggle](https://linggle.com/) - Language reference search
 * [Grammarly](https://www.grammarly.com/) - Writing assistant
+
 
 ### Latex
 
 * [Overleaf](https://www.overleaf.com/) -The easy to use, online, collaborative LaTeX editor
+* [Getting start with Latex](https://www.maths.tcd.ie/~dwilkins/LaTeXPrimer/)
 
 ### Reference management
 
